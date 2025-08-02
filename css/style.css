@@ -1,4 +1,6 @@
-#earthFont {
+h1 {
+  float: center;
+  text-align: center;
   font-family: "Mansalva", sans-serif;
   font-weight: 400;
   font-style: normal;
