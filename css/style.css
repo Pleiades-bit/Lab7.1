@@ -1,16 +1,20 @@
 h1 {
   float: center;
   text-align: center;
-  font-family: "Space Mono", monospace;
-  font-weight: 700;
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
   font-style: normal;
 }
 
+
 #planets {
-  float: center;
-  font-family: "Space Mono", monospace;
-  font-weight: 700;
-  font-style: italic;
+  position: relative;
+  left: 25%;
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 
 .explanation {
@@ -21,29 +25,25 @@ h1 {
 }
 .earth {
   color: #66D36D;
-  font-family: "Cinzel", serif;
-  font-optical-sizing: auto;
+  font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
 }
 .mars {
   color: #FF6F61;
-  font-family: "Cinzel", serif;
-  font-optical-sizing: auto;
+  font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
 }
 .saturn {
   color: #F7C04A;
-  font-family: "Cinzel", serif;
-  font-optical-sizing: auto;
+  font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
 }
 .neptune {
   color: #4A90E2;
-  font-family: "Cinzel", serif;
-  font-optical-sizing: auto;
+  font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
 }
