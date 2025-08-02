@@ -36,24 +36,28 @@ h2 {
   font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
+  text-align: center;
 }
 .mars {
   color: #FF6F61;
   font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
+  text-align: center;
 }
 .saturn {
   color: #F7C04A;
   font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
+  text-align: center;
 }
 .neptune {
   color: #4A90E2;
   font-family: "Space Mono", monospace;
   font-weight: 500;
   font-style: normal;
+  text-align: center;
 }
 
 .title {
